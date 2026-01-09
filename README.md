@@ -16,15 +16,16 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 - 🔭 I’m currently a **Computer Engineering Student (2nd Year)**
-- 🌱 I’m currently learning **Advanced Backend with Go & Microservices**
-- 💻 I love building things with **Next.js, Python, and Docker**
 - 🎨 Interested in **Web Development & DevOps**
+- 💻 I love building things with **Next.js, Python, and Docker**
+- 🌱 I’m currently learning **Advanced Backend with Go & Microservices**
+
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,graphql&theme=dark" />
@@ -36,9 +37,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aluminium51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aluminium51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
