@@ -17,10 +17,10 @@
 <br/>
 
 ### About Me
-- 🔭 I’m currently a **Computer Engineering Student (2nd Year)**
-- 🎨 Interested in **Web Development & DevOps**
-- 💻 I love building things with **Next.js, Python, and Docker**
-- 🌱 I’m currently learning **Advanced Backend with Go & Microservices**
+- I’m currently a **Computer Engineering Student (2nd Year)**
+- Interested in **Web Development & DevOps**
+- I love building things with **Next.js, Python, and Docker**
+- I’m currently learning **Advanced Backend with Go & Microservices**
 
 
 ---
