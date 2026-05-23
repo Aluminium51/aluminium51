@@ -37,9 +37,10 @@
 </div>
 
 ---
-### 📊 GitHub Analytics
+### 📊 GitHub Acitivities
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aluminium51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aluminium51&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aluminium51&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophy" />
+  </a>
 </div>
