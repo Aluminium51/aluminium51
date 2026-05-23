@@ -37,10 +37,21 @@
 </div>
 
 ---
-### 📊 GitHub Acitivities
+###  GitHub Acitivities
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Aluminium51&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophy" />
   </a>
+</div>
+
+---
+###  Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aluminium51/Aluminium51/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aluminium51/Aluminium51/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aluminium51/Aluminium51/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
