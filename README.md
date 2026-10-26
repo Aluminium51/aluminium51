@@ -17,7 +17,7 @@
 <br/>
 
 ### About Me
-- I’m currently a **Computer Engineering Student (3nd Year)**
+- I’m a **Computer Engineering Student (3nd Year)**
 - Interested in **Web Development & DevOps**
 - I’m currently learning **Advanced Backend with Go & Microservices**
 
@@ -27,7 +27,7 @@
 ### Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,graphql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,go,graphql,verilog&theme=dark" />
     <br/><br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwindcss,html,css&theme=dark" />
     <br/><br/>
